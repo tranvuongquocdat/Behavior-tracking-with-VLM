@@ -13,7 +13,7 @@ This application is a real-time behavior tracking system using Vision Language M
 - Horizontal camera flip option
 
 ### Demo
-[Watch Demo Video](demo.mp4)
+[![Behavior Tracking with VLM Demo](https://img.youtube.com/vi/hiehE-ck78U/0.jpg)](https://www.youtube.com/shorts/hiehE-ck78U)
 
 ### Installation
 
